@@ -5,4 +5,8 @@
 //  Created by John Patrick Echavez on 7/4/25.
 //
 
-import Foundation
+import SwiftUI
+
+//extension Color {
+//    static let BrandPrimary = Color("brandPrimary")
+//}
